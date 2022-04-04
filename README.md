@@ -1,6 +1,6 @@
 # Lanchonete-GUI
 
-Aplicativo que simula uma Lanchonete e emite a Nota Fiscal ao final da compra feito em Java para Desktop.
+Aplicativo que simula uma Lanchonete e emite a Nota Fiscal ao final da compra. Aplicação em Java para Desktop.
 
 A Lanchote Java está com uma super promoção: Compre com o cartão e receba 20% de desconto no valor total da compra!
 
