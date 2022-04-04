@@ -16,5 +16,5 @@ Especificação ---------------- Código ---------- Preço <br />
   <br />
 
 
-Para realizar a compra é necessário informar o código do produto e a quatidade.
+Para realizar a compra é necessário informar o código do produto e a quatidade de ítens desejados. <br />
 Finalize a compra e escolha a forma de pagamento para gerar a Nota Fiscal.
